@@ -24,4 +24,4 @@ function fullscreen() {
     }else{
     canvas.requestFullscreen({navigationUI: "auto"});
 }
-} 
+}
